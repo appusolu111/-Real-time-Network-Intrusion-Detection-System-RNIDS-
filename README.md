@@ -127,16 +127,16 @@ pip install -r requirements.txt
 python application.py
 
 ###  MainPage Preview
-![RNIDS Main Page](SS\main.png)
+![RNIDS Main Page](SS/main.png)
 
 ###  Dashboard Preview
-![RNIDS Dashboard](SS\dashboard.png)
+![RNIDS Dashboard](SS/dashboard.png)
 
 ###  Flow Analysis Example
-![Flow Analysis](SS\entry.png)
+![Flow Analysis](SS/entry.png)
 
 ###  Detail Page
-![Detail](SS\detail.png)
+![Detail](SS/detail.png)
 
 ###  Explainable AI
-![LIME](SS\ai.png)
+![LIME](SS/ai.png)
