@@ -127,16 +127,16 @@ pip install -r requirements.txt
 python application.py
 
 ###  MainPage Preview
-![RNIDS Main Page](C:\Users\Lenovo\Documents\RESUME\RNIDS\main.png)
+![RNIDS Main Page](SS\main.png)
 
 ###  Dashboard Preview
-![RNIDS Dashboard](C:\Users\Lenovo\Documents\RESUME\RNIDS\dashboard.png)
+![RNIDS Dashboard](SS\dashboard.png)
 
 ###  Flow Analysis Example
-![Flow Analysis](C:\Users\Lenovo\Documents\RESUME\RNIDS\entry.png)
+![Flow Analysis](SS\entry.png)
 
 ###  Detail Page
-![Detail](C:\Users\Lenovo\Documents\RESUME\RNIDS\detail.png)
+![Detail](SS\detail.png)
 
 ###  Explainable AI
-![LIME](C:\Users\Lenovo\Documents\RESUME\RNIDS\ai.png)
+![LIME](SS\ai.png)
